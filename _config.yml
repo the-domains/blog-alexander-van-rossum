@@ -1,0 +1,28 @@
+name: Blog - Alexander van Rossum
+favicon: null
+layout_spectrum: 0.20992486434988678
+typography_spectrum: 0.9407404859084636
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.10668734880164266
+  lightness: 0.5198646914213896
+  saturation: 0.2795790112577379
+  rhythmicContrast: 0.7555742559488863
+purpose: []
